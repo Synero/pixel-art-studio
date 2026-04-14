@@ -1,0 +1,4 @@
+Pillow>=10.0
+numpy
+scipy
+requests

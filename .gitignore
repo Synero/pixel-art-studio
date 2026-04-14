@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+pixelart_memory.json
+pixelart_output/
